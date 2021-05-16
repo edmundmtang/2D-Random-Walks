@@ -14,7 +14,7 @@ import pandas as pd
 cnx = mysql.connector.connect(
     host = "localhost",
     user = "root",
-    password = "phylumSnack1738#",
+    password = "password",
     database = "2d_walk"
     )
 cursor = cnx.cursor()
