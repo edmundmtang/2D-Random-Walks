@@ -17,7 +17,7 @@ overall_timer.start()
 cnx = mysql.connector.connect(
         host='localhost',
 	user='root',
-	password='phylumSnack1738#',
+	password='password',
         database = "2D_walk"
 	)
 cursor = cnx.cursor()

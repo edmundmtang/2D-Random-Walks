@@ -75,7 +75,7 @@ TABLES['MSDs'] = (
 cnx = mysql.connector.connect(
         host='localhost',
 	user='root',
-	password='phylumSnack1738#'
+	password='password'
 	)
 cursor = cnx.cursor()
 
