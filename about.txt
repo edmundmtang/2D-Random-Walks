@@ -1,0 +1,5 @@
+A simple set of code to simulate random 2D motion.
+trajectory.png is an output visualizing the trajectories of the simulated particles moving in 2D.
+msd.png is an output visualizing the average mean-squared displacement (MSD) of particles plotted
+as a function of time. This demonstrates a linear relationship between MSD and time, which is to
+be expected for theoretical Brownian particles.
