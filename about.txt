@@ -1,4 +1,10 @@
-A simple set of code to simulate random 2D motion.
+A simple project to simulate random 2D motion.
+
+mySQL_setup.py - Sets up databases for storing the results of the simulations. Required for to
+store the results so that they can be accessed to be analyzed and visualized
+
+rw2d.py - collection of code for running, analyzing, and visualizing simulations
+
 trajectory.png is an output visualizing the trajectories of the simulated particles moving in 2D.
 msd.png is an output visualizing the average mean-squared displacement (MSD) of particles plotted
 as a function of time. This demonstrates a linear relationship between MSD and time, which is to
